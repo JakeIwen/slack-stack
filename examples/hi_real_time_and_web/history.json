@@ -1,0 +1,844 @@
+[
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "history",
+    "ts": "1494891356.395060"
+  },
+  {
+    "type": "message",
+    "subtype": "file_share",
+    "text": "<@U4AH8CJTZ|jakejake> uploaded a file: <https://zubians.slack.com/files/jakejake/F5EKD79PY/hibernat4_crash_1|TestFile1Hibernate>",
+    "file": {
+      "id": "F5EKD79PY",
+      "created": 1494881040,
+      "timestamp": 1494881040,
+      "name": "hibernat4 crash 1",
+      "title": "TestFile1Hibernate",
+      "mimetype": "text/plain",
+      "filetype": "text",
+      "pretty_type": "Plain Text",
+      "user": "U4AH8CJTZ",
+      "editable": true,
+      "size": 7962,
+      "mode": "snippet",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/T4ABB3FQE-F5EKD79PY/hibernat4_crash_1",
+      "url_private_download": "https://files.slack.com/files-pri/T4ABB3FQE-F5EKD79PY/download/hibernat4_crash_1",
+      "permalink": "https://zubians.slack.com/files/jakejake/F5EKD79PY/hibernat4_crash_1",
+      "permalink_public": "https://slack-files.com/T4ABB3FQE-F5EKD79PY-5766b78437",
+      "edit_link": "https://zubians.slack.com/files/jakejake/F5EKD79PY/hibernat4_crash_1/edit",
+      "preview": "Anonymous UUID:       6A182F8E-95ED-C881-4A75-A3A5D260B6E1\n\nWed Jan 11 08:20:05 2017\n\n*** Panic Report ***",
+      "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Anonymous UUID:       6A182F8E-95ED-C881-4A75-A3A5D260B6E1</pre></div>\n<div><pre></pre></div>\n<div><pre>Wed Jan 11 08:20:05 2017</pre></div>\n<div><pre></pre></div>\n<div><pre>*** Panic Report ***</pre></div>\n</div>\n</div>\n",
+      "lines": 189,
+      "lines_more": 184,
+      "preview_is_truncated": true,
+      "channels": [
+        "C4ACPFJ9M"
+      ],
+      "groups": [
+
+      ],
+      "ims": [
+
+      ],
+      "comments_count": 0
+    },
+    "user": "U4AH8CJTZ",
+    "upload": true,
+    "display_as_bot": false,
+    "username": "jakejake",
+    "bot_id": null,
+    "ts": "1494881050.922489"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "history",
+    "ts": "1494878978.219931"
+  },
+  {
+    "text": "getting history",
+    "username": "Slack API Tester",
+    "bot_id": "B4BH6RK33",
+    "type": "message",
+    "subtype": "bot_message",
+    "ts": "1494435578.885850"
+  },
+  {
+    "text": "getting history",
+    "username": "Slack API Tester",
+    "bot_id": "B4BH6RK33",
+    "type": "message",
+    "subtype": "bot_message",
+    "ts": "1494435256.765416"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "history",
+    "ts": "1494435237.758343"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "We'll stop by Walgreens or target to get contact lens liquid and hand soap, do you need anything?",
+    "ts": "1492976979.633958"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "Hey, how about a 7 minute dance party?",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1492976759.621137"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "We went to Seward with noodle and Rae and some other dance church people, just about done now, will head home ",
+    "ts": "1492976758.621127"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "are you guy getting brunch?",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1492975319.529213"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "I bet it can be resurrected ",
+    "ts": "1492974828.498932"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "i slept an hour or so. i think dadbot is dead\n",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1492974684.489951"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "Still awake? :P",
+    "ts": "1492974363.469245"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "dadbot gif me dadbot",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1492973621.420243"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "dadbot gif me wieurbgwuehrbfvqwoeahbfqoewiabfh\n",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1492961573.659262"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "tsssst\n",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1492218307.008571"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "helloooo",
+    "ts": "1491333908.975397"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "tsst",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1491328101.849478"
+  },
+  {
+    "user": "U4AG3MWJV",
+    "text": "<@U4AG3MWJV|mike> has joined the channel",
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1490356580.087006"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot weather in paris",
+    "ts": "1489142966.000591"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://media4.giphy.com/media/vdALEaHmW7BsY/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "480x320px image",
+        "image_url": "http://media4.giphy.com/media/vdALEaHmW7BsY/giphy.gif",
+        "image_width": 480,
+        "image_height": 320,
+        "image_bytes": 126128,
+        "is_animated": true,
+        "from_url": "http://media4.giphy.com/media/vdALEaHmW7BsY/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489107567.000589"
+  },
+  {
+    "type": "message",
+    "user": "U49MTQFDY",
+    "text": "dadbot gif me that's so meta",
+    "ts": "1489107567.000588"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<https://media0.giphy.com/media/kYt4XwgWZgiYw/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "500x281px image",
+        "image_url": "https://media0.giphy.com/media/kYt4XwgWZgiYw/giphy.gif",
+        "image_width": 500,
+        "image_height": 281,
+        "image_bytes": 618399,
+        "is_animated": true,
+        "from_url": "https://media0.giphy.com/media/kYt4XwgWZgiYw/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489107519.000586"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "dadbot gif me hanna",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1489107519.000585"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://media3.giphy.com/media/is6dXBvclbF6M/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "250x62px image",
+        "image_url": "http://media3.giphy.com/media/is6dXBvclbF6M/giphy.gif",
+        "image_width": 250,
+        "image_height": 62,
+        "image_bytes": 5830,
+        "is_animated": true,
+        "from_url": "http://media3.giphy.com/media/is6dXBvclbF6M/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489054091.000582",
+    "reactions": [
+      {
+        "name": "cool",
+        "users": [
+          "U4ABELQ8N"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "dadbot gif me jet leg\n",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1489054091.000581"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://media0.giphy.com/media/NWg7M1VlT101W/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "500x278px image",
+        "image_url": "http://media0.giphy.com/media/NWg7M1VlT101W/giphy.gif",
+        "image_width": 500,
+        "image_height": 278,
+        "image_bytes": 486945,
+        "is_animated": true,
+        "from_url": "http://media0.giphy.com/media/NWg7M1VlT101W/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489053990.000579"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "dadbot gif me jet lag",
+    "ts": "1489053990.000578"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "thanks dadbot",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1489053846.000577"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://media2.giphy.com/media/YJFk6YFwroIh2/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "245x184px image",
+        "image_url": "http://media2.giphy.com/media/YJFk6YFwroIh2/giphy.gif",
+        "image_width": 245,
+        "image_height": 184,
+        "image_bytes": 428892,
+        "is_animated": true,
+        "from_url": "http://media2.giphy.com/media/YJFk6YFwroIh2/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489053830.000575"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "dadbot gif me porn\n",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1489053830.000574"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://media4.giphy.com/media/26gIOEsGb5mcTiQEw/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "500x281px image",
+        "image_url": "http://media4.giphy.com/media/26gIOEsGb5mcTiQEw/giphy.gif",
+        "image_width": 500,
+        "image_height": 281,
+        "image_bytes": 1978324,
+        "is_animated": true,
+        "from_url": "http://media4.giphy.com/media/26gIOEsGb5mcTiQEw/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489010787.000572"
+  },
+  {
+    "type": "message",
+    "user": "U490WFXPT",
+    "text": "dadbot gif me cash me ousside",
+    "ts": "1489010787.000571"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<https://media0.giphy.com/media/RzBZP2GZ2v0kw/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "396x199px image",
+        "image_url": "https://media0.giphy.com/media/RzBZP2GZ2v0kw/giphy.gif",
+        "image_width": 396,
+        "image_height": 199,
+        "image_bytes": 3959316,
+        "is_animated": true,
+        "from_url": "https://media0.giphy.com/media/RzBZP2GZ2v0kw/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489010750.000569"
+  },
+  {
+    "type": "message",
+    "user": "U49MTQFDY",
+    "text": "dadbot gif me noooo giphy!!",
+    "ts": "1489010749.000568"
+  },
+  {
+    "type": "message",
+    "user": "U49MTQFDY",
+    "text": "dadbot gif me noooo giphy!!",
+    "edited": {
+      "user": "U49MTQFDY",
+      "ts": "1489010738.000000"
+    },
+    "ts": "1489010727.000566"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://media2.giphy.com/media/BpBOsF2MnF23m/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "480x276px image",
+        "image_url": "http://media2.giphy.com/media/BpBOsF2MnF23m/giphy.gif",
+        "image_width": 480,
+        "image_height": 276,
+        "image_bytes": 1539554,
+        "is_animated": true,
+        "from_url": "http://media2.giphy.com/media/BpBOsF2MnF23m/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489010652.000564"
+  },
+  {
+    "type": "message",
+    "user": "U49MTQFDY",
+    "text": "dadbot gif me catch me on the corner",
+    "ts": "1489010652.000563"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://media3.giphy.com/media/Zp3dDTwtkKKU8/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "470x360px image",
+        "image_url": "http://media3.giphy.com/media/Zp3dDTwtkKKU8/giphy.gif",
+        "image_width": 470,
+        "image_height": 360,
+        "image_bytes": 940705,
+        "is_animated": true,
+        "from_url": "http://media3.giphy.com/media/Zp3dDTwtkKKU8/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1489010576.000561"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "dadbot gif me testing",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1489010576.000560"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "moar test",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1488858866.000559"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "test from FACEBOOK w/ slack api :P\n",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1488857328.000558"
+  },
+  {
+    "type": "message",
+    "user": "U4ABELQ8N",
+    "text": "test",
+    "ts": "1488854433.000557"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "tst ",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1488852957.000556"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "tesst2",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1488789302.000555"
+  },
+  {
+    "type": "message",
+    "user": "U4AH8CJTZ",
+    "text": "tesssst\n",
+    "bot_id": "B4D7FFPRP",
+    "ts": "1488772120.000554"
+  },
+  {
+    "type": "message",
+    "user": "U4DGRPNLT",
+    "text": "<@U49JPP1S7> k",
+    "ts": "1488584799.000553"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "<@U4DGRPNLT> testing notifications",
+    "ts": "1488584779.000552"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "<@U4DGRPNLT>",
+    "ts": "1488584764.000551"
+  },
+  {
+    "user": "U4DGRPNLT",
+    "text": "<@U4DGRPNLT|gnr> has joined the channel",
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1488584760.000550"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "alinaboobear is a purple pleasure dragon, the best wife ever.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488584688.000549"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot who is alina",
+    "ts": "1488584688.000548"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "jakejake is nothing to me.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488584683.000547"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot who is jakejake",
+    "ts": "1488584683.000546"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://media3.giphy.com/media/rlnfypFjKJfJ6/giphy.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "384x263px image",
+        "image_url": "http://media3.giphy.com/media/rlnfypFjKJfJ6/giphy.gif",
+        "image_width": 384,
+        "image_height": 263,
+        "image_bytes": 49513,
+        "is_animated": true,
+        "from_url": "http://media3.giphy.com/media/rlnfypFjKJfJ6/giphy.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1488584660.000544"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot gif me gnr",
+    "ts": "1488584660.000543"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "gnr? Never heard of 'em",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488584615.000542"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot who is gnr",
+    "ts": "1488584615.000541"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot <@U4DGRPNLT> is still using a windows computer",
+    "ts": "1488584606.000540"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "pssshaw",
+    "ts": "1488578194.000539"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "I don't know anything about that.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578190.000538"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot what is steak and blowjob day?",
+    "ts": "1488578190.000537"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "I don't know anything about that.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578174.000536"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot what is the airspeed of an unladen swallow",
+    "ts": "1488578174.000535"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "1. Bring your best.\n2. Bring something to share\n3. Let the whole album side play.\n4. Don't spooge in the hottub.\n5. Inside voices outside",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578148.000534"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot zubas rules",
+    "ts": "1488578148.000533"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "you do too dadbot!",
+    "ts": "1488578144.000532"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "I don't know anything about that.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578130.000531"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "dadbot what are the zubas rules",
+    "ts": "1488578130.000530"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "Ja Rule An American rapper, singer, and actor from Queens, New York.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578122.000529"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "0. A robot may not harm humanity, or, by inaction, allow humanity to come to harm.\n1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n2. A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.\n3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578122.000528"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot what are the rules",
+    "ts": "1488578122.000527"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "good fuzzy matching there dadbot",
+    "ts": "1488578115.000526"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "alinaboobear is a purple pleasure dragon, the best wife ever.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578102.000525"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot who is alina",
+    "ts": "1488578102.000524"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "Ok, alinaboo is the best wife ever.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578096.000523"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot alinaboo is the best wife ever",
+    "ts": "1488578096.000522"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "alinaboobear is a purple pleasure dragon.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578085.000521"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot who is alinaboo",
+    "ts": "1488578085.000520"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "Ok, alina is a purple pleasure dragon.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578078.000519"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "dadbot alina is a purple pleasure dragon",
+    "ts": "1488578078.000518"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "alinabear? Never heard of 'em",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578078.000517"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot who is alinabear",
+    "ts": "1488578078.000516"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "tsk tsk tsk",
+    "ts": "1488578070.000515"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "alinaboobear is nothing to me.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578065.000514"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "dadbot who is alina",
+    "ts": "1488578065.000513"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "The best.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578060.000512"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "dadbot who is dadbot",
+    "ts": "1488578060.000511"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "who is dadbot",
+    "ts": "1488578055.000510"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot you are sexy",
+    "ts": "1488578054.000509"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "Ok, I am smart.",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578042.000508"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot dadbot is smart",
+    "ts": "1488578042.000507"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "dadbot is smart!",
+    "ts": "1488578036.000506"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "how did the dadbot know you like soccer?",
+    "ts": "1488578028.000505"
+  },
+  {
+    "type": "message",
+    "user": "U49JPP1S7",
+    "text": "yesssssss the parrot!",
+    "ts": "1488578021.000504"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://i.minus.com/iUQsaEI35WLo3.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "ts": "1488578003.000503"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "good job dadbot",
+    "ts": "1488578003.000502"
+  },
+  {
+    "type": "message",
+    "user": "U49ML2PSN",
+    "text": "<http://i.imgur.com/N6u0o2U.gif>",
+    "bot_id": "B4AC6GAPQ",
+    "attachments": [
+      {
+        "fallback": "712x401px image",
+        "image_url": "http://i.imgur.com/N6u0o2U.gif",
+        "image_width": 712,
+        "image_height": 401,
+        "image_bytes": 38193047,
+        "is_animated": true,
+        "from_url": "http://i.imgur.com/N6u0o2U.gif",
+        "id": 1
+      }
+    ],
+    "ts": "1488577997.000500"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "I did not expect something so good.",
+    "ts": "1488577997.000499"
+  },
+  {
+    "type": "message",
+    "user": "U49MUCUQJ",
+    "text": "wow, this is awesome!",
+    "ts": "1488577992.000498"
+  }
+]
