@@ -1,0 +1,7 @@
+source 'http://rubygems.org'
+
+gem 'slack-ruby-client', path: '../'
+
+gem 'faye-websocket'
+gem 'pry'
+gem 'dotenv'

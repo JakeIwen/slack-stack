@@ -2,8 +2,18 @@ require 'slack-ruby-client'
 require 'pry'
 require 'json'
 # require 'pathname'
+# require 'pp'
+require 'dotenv'
+#
+Dotenv.load('../.env')
 
-Slack.configure do |config|
+# pp ENV
+
+# puts "dotenv #{dotenv}"
+
+
+Slack.configure do |config| :dotenv
+  # puts "env #{ENV}"
   config.token = ENV['SLACK_API_TOKEN']
   fail 'Missing ENV[SLACK_API_TOKEN]!' unless config.token
 end
