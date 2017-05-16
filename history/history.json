@@ -3,6 +3,79 @@
     "type": "message",
     "user": "U4BJVHG9E",
     "text": "history",
+    "ts": "1494920828.185370"
+  },
+  {
+    "type": "message",
+    "user": "U4BJVHG9E",
+    "text": "history",
+    "ts": "1494919435.934983"
+  },
+  {
+    "type": "message",
+    "user": "U4BJVHG9E",
+    "text": "history",
+    "edited": {
+      "user": "U4BJVHG9E",
+      "ts": "1494919378.000000"
+    },
+    "ts": "1494919371.924066"
+  },
+  {
+    "type": "message",
+    "subtype": "file_share",
+    "text": "<@U4BJVHG9E|jakejake> uploaded a file: <https://lionfeatherdev.slack.com/files/jakejake/F5E1LLHUL/history.json|slack-stack-history>",
+    "file": {
+      "id": "F5E1LLHUL",
+      "created": 1494919356,
+      "timestamp": 1494919356,
+      "name": "history.json",
+      "title": "slack-stack-history",
+      "mimetype": "text/plain",
+      "filetype": "javascript",
+      "pretty_type": "JavaScript/JSON",
+      "user": "U4BJVHG9E",
+      "editable": true,
+      "size": 5148,
+      "mode": "snippet",
+      "is_external": false,
+      "external_type": "",
+      "is_public": true,
+      "public_url_shared": false,
+      "display_as_bot": false,
+      "username": "",
+      "url_private": "https://files.slack.com/files-pri/T4C86V5QT-F5E1LLHUL/history.json",
+      "url_private_download": "https://files.slack.com/files-pri/T4C86V5QT-F5E1LLHUL/download/history.json",
+      "permalink": "https://lionfeatherdev.slack.com/files/jakejake/F5E1LLHUL/history.json",
+      "permalink_public": "https://slack-files.com/T4C86V5QT-F5E1LLHUL-d3858b4e26",
+      "edit_link": "https://lionfeatherdev.slack.com/files/jakejake/F5E1LLHUL/history.json/edit",
+      "preview": "[\n  {\n    \"type\": \"message\",\n    \"user\": \"U4BJVHG9E\",\n    \"text\": \"history\",",
+      "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>[</pre></div>\n<div><pre>  {</pre></div>\n<div><pre>    <span class=\"cm-string cm-property\">&quot;type&quot;</span>: <span class=\"cm-string\">&quot;message&quot;</span>,</pre></div>\n<div><pre>    <span class=\"cm-string cm-property\">&quot;user&quot;</span>: <span class=\"cm-string\">&quot;U4BJVHG9E&quot;</span>,</pre></div>\n<div><pre>    <span class=\"cm-string cm-property\">&quot;text&quot;</span>: <span class=\"cm-string\">&quot;history&quot;</span>,</pre></div>\n</div>\n</div>\n",
+      "lines": 166,
+      "lines_more": 161,
+      "preview_is_truncated": true,
+      "channels": [
+        "C4CA7EWE6"
+      ],
+      "groups": [
+
+      ],
+      "ims": [
+
+      ],
+      "comments_count": 0
+    },
+    "user": "U4BJVHG9E",
+    "upload": true,
+    "display_as_bot": false,
+    "username": "jakejake",
+    "bot_id": null,
+    "ts": "1494919360.922037"
+  },
+  {
+    "type": "message",
+    "user": "U4BJVHG9E",
+    "text": "history",
     "ts": "1494916713.519731"
   },
   {
