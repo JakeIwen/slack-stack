@@ -43,7 +43,8 @@ client.on :message do |data|
       end
 
       def generate
-        fetch_and_parse_history
+        fetch_history
+        parse_history
         get_time_stamp
         post_new_history
         #how toonly delete on success of post_new_history?
@@ -54,6 +55,27 @@ client.on :message do |data|
       # do we nest functions much?
       private
 
+      def fetch_history
+        @file_objects = @client.files_list.files.select{ |k|  k["title"].to_s.match("slack-stack-history") }
+      end
+
+      def parse_history
+        #better way to do this? to return if no existing json message history
+        return unless @file_objects != []
+        @old_history = []
+        @json_url = @file_objects[0]["url_private_download"]
+        res = RestClient.get(@json_url, { "Authorization" => "Bearer #{ENV['SLACK_API_TOKEN']}" })
+        return unless res.code == 200
+        @old_history = JSON.parse(res.body)
+
+      end
+
+      def get_time_stamp
+        return unless @old_history.first.is_a? Hash
+        return unless @old_history.first['ts']
+        @ts = @old_history.first['ts'].to_f + 1
+      end
+
       def post_new_history
         new_messages = @client.channels_history(channel: @channel, oldest: @ts).messages
         #how can the following JSON include new_messages without async issues form the above call?
@@ -63,33 +85,12 @@ client.on :message do |data|
       end
 
       # instance variables vs returning values???
-      def get_time_stamp
-        return unless @old_history.first.is_a? Hash
-        return unless @old_history.first['ts']
-        @ts = @old_history.first['ts'].to_f + 1
-      end
-
-      def fetch_and_parse_history
-        fetch_history
-        if @file_objects == []
-          @old_history = []
-        else
-          @json_url = @file_objects[0]["url_private_download"]
-          res = RestClient.get(@json_url, { "Authorization" => "Bearer #{ENV['SLACK_API_TOKEN']}" })
-          return unless res.code == 200
-          @old_history = JSON.parse(res.body)
-        end
-      end
 
       def delete_older_history
         puts "#{@file_objects.length} to delete"
         @file_objects.each do |f|
           @client.files_delete(file: f.id)
         end
-      end
-
-      def fetch_history
-        @file_objects = @client.files_list.files.select{ |k|  k["title"].to_s.match("slack-stack-history") }
       end
     end
 
