@@ -30,8 +30,8 @@ client.on :message do |data|
   when /^bot/ then
     client.web_client.chat_postMessage channel: data.channel, text: "Sorry <@#{data.user}>, what?"
   when 'history' then
-    #Where should this class actually go?
 
+    #Where should this class actually go?
     class HistoryGenerator
 
       def initialize(client, channel)
@@ -51,8 +51,7 @@ client.on :message do |data|
         delete_old_history
       end
 
-      #what is this private thing doing? can only '.initialize' and '.generate' be accessed as methods?
-      # do we nest functions much?
+      # do we nest functions if func_a is used exclusively by func_b?
       private
 
       def fetch_history
@@ -84,8 +83,7 @@ client.on :message do |data|
         @client.files_upload(content:message_json, filetype:"javascript", title:"slack-stack-history", filename:"history.json", initial_comment:comment, channels:@channel)
       end
 
-      # instance variables vs returning values???
-
+      # why do we seem to use instance variables instead of returning values???
       def delete_old_history
         puts "#{@file_objects.length} to delete"
         @file_objects.each do |f|
