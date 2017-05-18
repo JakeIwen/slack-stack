@@ -47,8 +47,8 @@ client.on :message do |data|
         parse_history
         get_time_stamp
         post_new_history
-        #how toonly delete on success of post_new_history?
-        delete_older_history
+        #how to only delete on success of post_new_history?
+        delete_old_history
       end
 
       #what is this private thing doing? can only '.initialize' and '.generate' be accessed as methods?
@@ -86,7 +86,7 @@ client.on :message do |data|
 
       # instance variables vs returning values???
 
-      def delete_older_history
+      def delete_old_history
         puts "#{@file_objects.length} to delete"
         @file_objects.each do |f|
           @client.files_delete(file: f.id)
