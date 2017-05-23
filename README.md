@@ -1,7 +1,7 @@
 Slack-Stack Archiver
 =================
 
-An attempt at using Ruby to create an API capable of archiving and updating Slack channel messages into a JSON file.
+Capable of archiving and updating Slack channel messages into a JSON file.
 
 Must store Slack API token in .env file.
 
