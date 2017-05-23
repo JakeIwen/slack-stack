@@ -9,4 +9,4 @@ Simply type "history" into any channel, and the link to the JSON containing the 
 
 Using [Daniel Doubrovkine](https://twitter.com/dblockdotorg)'s  [slack-ruby-clioent](https://github.com/dblock/slack-ruby-clioent)
 
-![Screenshot](https://github.com/JakeIwen/slack-stack/blob/master/assets/NFSwapper_1.png)
+![Screenshot](https://github.com/JakeIwen/slack-stack/blob/master/screenshot.png)
