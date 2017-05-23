@@ -6,7 +6,7 @@ require 'date'
 require "byebug"
 require 'rest-client'
 
-Dotenv.load('../.env')
+Dotenv.load('./.env')
 
 class HistoryGenerator
 
